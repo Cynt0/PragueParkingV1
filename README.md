@@ -34,7 +34,11 @@ Q) Quit - Exits the program
 
 # Remove a vehicle 
 
-
+1. Press 4 on keyboard
+2. Enter type of vehicle 
+3. Enter registration number
+4. Press y to confirm 
+5. Done 
 
 
 
