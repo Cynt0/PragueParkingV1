@@ -29,8 +29,10 @@ Q) Quit - Exits the program
 2. Enter type of vehicle
 3. Enter registration number
 4. Press y to move that vehicle 
-5. Enter the parkingspot the vehicle shoudl move to
+5. Enter the parkingspot the vehicle should move to
 6. Done
+
+# Remove a vehicle 
 
 
 
